@@ -1,4 +1,4 @@
-## Hi there 👋
+## About me 👋
 
 <!--
 **shroff09/shroff09** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
@@ -15,6 +15,6 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-Software Engineer.
+# Software Engineer.
 
-Building systems. Solving problems. Learning AI.
+# Building systems. Solving problems. Learning AI.
